@@ -31,7 +31,7 @@ export default function Formulario() {
 
             <div>
                 <Label htmlFor="poblacion" text="Población:" />
-                <Select />
+                <Select name="poblacion" id="poblacion" />
             </div>
 
             <div>
